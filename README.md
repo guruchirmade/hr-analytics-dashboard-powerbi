@@ -1,1 +1,3 @@
-# hr-analytics-dashboard-powerbi
+# HR Analytics Dashboard (Power BI)
+
+![Dashboard](dashboard.png)
